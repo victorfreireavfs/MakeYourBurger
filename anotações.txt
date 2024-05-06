@@ -1,0 +1,37 @@
+INICIANDO O PROJETO
+
+- criando novo repositório no GitHub
+- npm creat no terminal pra criar o PROJETO
+
+------------------------------------------------------------------
+VÍDEO 1
+
+- criando um backend "fake" no json server
+- instalando nova dependencia json-server no terminal
+- inicialização feita criando novo script no package.json
+- criando arquivo pasta db e arquivo db.json
+- importando arquivo do repositório do PROJETO
+
+    ENDPOINTS
+    http://localhost:3000/ingredientes
+    http://localhost:3000/status
+    http://localhost:3000/burgers
+
+- dois terminais abertos pra rodar o projeto (backend e o npm)
+- o VUE é nosso front e JSON-server é o backend
+- o arquivo db.json vai ser alterado em tempo real adicionando novos "burguers"
+- db.json além de ser nossos resoursers(endpoints) é nosso BD
+- esse arquio é um array de objetos
+- backend rodand prnto pra acoplar no frontend (homepage)
+
+*PRÓXIMO PASSOS 
+-iniciando a home
+-cadastro do cliente pelo formulário
+-puxando os dados do backend pra preencher os selects
+
+
+--------------------------------------------------------------------
+
+VÍDEO 2
+
+
