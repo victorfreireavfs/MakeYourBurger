@@ -34,4 +34,24 @@ VÍDEO 1
 
 VÍDEO 2
 
-- 
+- criando pasta em public/img
+- baixando as imagens do projeto + icon
+- apagando copmponente helloword
+- apagando: style do app , componentes img e helloword do homeview
+- apagando: script import e export do homeview
+
+
+- criando componente Navbar.VUE
+- criando uma div e recortando os componentes do homeview
+- importou e exportou o comp Navbar para a home(App)
+- criou um router link no Navbar pra inserir um img com id logo
+- Criando componente Footer on App
+- Criando o componente pedidos. 
+- pedidos esta inserido tbm no router onde temos que alterar o arquivo para descrever a rota e o name
+- criado os links para as duas páginas do projeto HOME e PEDIDOS
+
+--------------------------------------
+
+VÍDEO 3
+
+-
